@@ -34,6 +34,7 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Z-Axis:          |     -0.48714 g (9,81 m/s^2) |
 | Log              |    |
 
+![](Imagenes/Image_20230926_142035_578.png)
 
 ## Gyroscope
 

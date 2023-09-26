@@ -76,3 +76,5 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Pressure:           |         99.82732kPa  |
 | Altitude change:    |         -0.12155 m   |
 | Log                 |                      |
+
+![](Imagenes/Image_20230926_142035_691.png)

@@ -45,7 +45,7 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Z-Axis:          |     -0.56210 rad/s   |
 | Log              |    |
 
-![]()
+![](Imagenes/Image_20230926_142035_607.png)
 
 ## Magnetometer
 

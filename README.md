@@ -2,7 +2,6 @@
 TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (FigmaJAM) o  MARKDOWN
 
 ## Location
-
 | Caracteristicas |        Valores        |
 |-----------------|-----------------------|
 | Latitude        |   32.529613°± 4.91m   |
@@ -12,6 +11,7 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Speed           |            0.25 m/s   |
 | Map             |    |
 
+![](Imagenes/Image_20230926_142035_523.png)
 
 
 ## Acceleration

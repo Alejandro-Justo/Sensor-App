@@ -56,6 +56,8 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Z-Axis:          |      -22.02454 µT    |
 | Log              |    |
 
+![](Imagenes/Image_20230926_142035_636.png)
+
 ## Attitude
 | Caracteristicas  |        Valores       |
 |------------------|----------------------|

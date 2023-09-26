@@ -41,3 +41,21 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Y-Axis:          |      0.04451 rad/s   |
 | Z-Axis:          |     -0.56210 rad/s   |
 | Log              |    |
+
+## Magnetometer
+
+| Caracteristicas  |        Valores       |
+|------------------|----------------------|
+| X-Axis:          |      -22.20322 µT    |
+| Y-Axis:          |      -20.47510 µT    |
+| Z-Axis:          |      -22.02454 µT    |
+| Log              |    |
+
+## Attitude
+| Caracteristicas  |        Valores       |
+|------------------|----------------------|
+| Roll:            |     -90.44232°   |
+| Pitch:           |      80.82929°   |
+| Yaw:             |     -109.97343°   |
+| Heading:         |     101.23970°   |
+| Log              |    |

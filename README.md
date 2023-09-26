@@ -59,3 +59,12 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Yaw:             |     -109.97343°   |
 | Heading:         |     101.23970°   |
 | Log              |    |
+
+
+## Altitude
+
+| Caracteristicas     |        Valores       |
+|---------------------|----------------------|
+| Pressure:           |         99.82732kPa  |
+| Altitude change:    |         -0.12155 m   |
+| Log                 |                      |

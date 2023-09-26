@@ -67,6 +67,7 @@ TABULADOR DETALLADO DE LOS SENSORES DE FABRICA DEL TELEFONO, via FIGMA.com (Figm
 | Heading:         |     101.23970°   |
 | Log              |    |
 
+![](Imagenes/Image_20230926_142035_664.png)
 
 ## Altitude
 
